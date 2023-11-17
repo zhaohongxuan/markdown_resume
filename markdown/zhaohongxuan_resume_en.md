@@ -3,7 +3,7 @@ Zhao Hongxuan Resume
 
 ----------------------------------                ---------------------------------                                 ------------------------------
 ZhaoHongxuan/Male/1991                            HENU/Network Engineering/Bachelor                                 http://github.com/zhaohongxuan
-Years of Experience: 9                                      185****9514                                                       hxzhenu@foxmail.com
+Years of Experience: 9                                      18502139514                                                       hxzhenu@foxmail.com
 ----------------------------------                ---------------------------------                                 -------------------------------
 
 Work Experience  
