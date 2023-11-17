@@ -1,0 +1,81 @@
+<meta charset="UTF-8">
+<style type="text/css">
+
+ html{height: 0;}
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    max-width: 800px;
+    margin: auto;
+    background: #FFFFFF;
+    padding: 6px 6px 6px 6px;
+}
+
+h1 {
+    font-size: 55px;
+    color: #757575;
+    text-align:center;
+    margin-bottom:15px;
+}
+h2:before {
+    content: "";
+    display: inline-block;
+    margin-right:2%;
+    width: 16%;
+    height: 12px;
+    background-color: #99BB77;
+}
+
+/* Definitions */
+dt {
+    float: left;
+    clear: left;
+    width: 17%;
+    font-weight: bold;
+}
+
+dd {
+    margin-left: 18%;
+    margin-bottom:7px;
+}
+p {
+    margin-top:0;
+    margin-bottom:7px;
+}
+
+blockquote {
+    text-align: center
+}
+
+/* Links */
+a {
+    text-decoration: none;
+    color: #397249;
+}
+a:hover, a:active {
+    background-color: #60c7b4;
+    color: #FFFFFF;
+    text-decoration: none;
+    text-shadow: 1px 1px 1px #333;
+}
+
+hr {
+    color: #A6A6A6;
+}
+
+table {
+    width: 100%;
+}
+
+tbody{
+    border-top: 3px solid #757575;
+    border-bottom: 3px solid #757575;
+}
+
+tr,td{
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+</style>
