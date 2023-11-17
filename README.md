@@ -16,7 +16,7 @@ vim markdown/resume.md   # 增加你的简历
 
 ```bash
 make
-``
+```
 
 ### Requirements
 
