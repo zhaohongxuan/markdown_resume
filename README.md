@@ -3,7 +3,7 @@ The Markdown Resume
 
 ### 使用说明
 
-本项目基于 [pandoc](https://github.com/jgm/pandoc) 以及[wkhtmltopdf](https://github.com/wkhtmltopdf)构建
+本项目基于 [pandoc resume](https://github.com/mszep/pandoc_resume) 构建,优化了部分css以及构建脚本，由于`ConTeXt`生成中文存在问题，因此其中pdf改为使用[wkhtmltopdf](https://github.com/wkhtmltopdf)生成
 
 ```bash
 git clone https://github.com/zhaohongxuan/markdown_resume

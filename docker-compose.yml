@@ -1,0 +1,12 @@
+version: '2'
+
+services:
+  markdown-resume-maker:
+    build:
+      context: .
+      dockerfile: ./docker/Dockerfile
+    container_name: markdown-resume-maker
+    entrypoint: ["sh", "-c", "cd /home/app/resume && make"]
+    image: markdown-resume-maker
+    volumes:
+      - .:/home/app/resume:z

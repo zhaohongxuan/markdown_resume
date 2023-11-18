@@ -1,8 +1,4 @@
-OUT_DIR=output
-IN_DIR=markdown
-
 all: html_pdf
-
 
 html_pdf: dir
 	for f in markdown/*.md; do \
@@ -16,7 +12,7 @@ html_pdf: dir
 	done
 
 dir:
-	mkdir -p $(OUT_DIR)
+	mkdir -p output
 
 clean:
-	rm -f $(OUT_DIR)/*
+	rm -f output/*
