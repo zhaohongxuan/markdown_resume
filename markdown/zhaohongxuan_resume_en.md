@@ -43,7 +43,7 @@ Skills
 **Technical Stack**
 : Proficient in common technologies of **Java** and **Kotlin**, including multithreading, JUC, containers, and networking. Familiar with the basic principles of Spring, with understanding of underlying source code and middleware development experience.
 : Mastery of **Python** and **TypeScript**, capable of daily development. Familiarity with **Lua** and **Go** languages.
-: Proficient in the use and optimization of common databases such as relational databases (**Postgres, MySQL**) and NoSQL databases (**Mongodb, Cassandra**).
+: Proficient in the use and optimization of common databases such as relational databases (**PostgreSQL, MySQL**) and NoSQL databases (**MongoDB, Cassandra**).
 : Familiar with the basics of the JVM, GC generational division, JVM tuning, and handling of online OOM or Full GC issues.
 : Proficient in common technologies of distributed microservices architecture, such as **Kafka, Redis, Restful**.
 : Experienced with **Linux** systems and **vim** development environment. Proficient in configuring and using Docker, with a basic understanding of Kubernetes. 

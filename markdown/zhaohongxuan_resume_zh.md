@@ -42,7 +42,7 @@
 --------------------
 **技术栈**
 : 熟悉**Java**以及**Kotlin**的常用技术，包括多线程、JUC、容器，网络等，熟悉Spring的基本原理，了解底层源码，有中间件开发经验
-: 熟悉常见数据库的使用以及调优，如**Postgres、mysql**以及**Mongodb，Cassandra**等
+: 熟悉常见数据库的使用以及调优，如**PostgreSQL、MySQL**以及**Mongodb，Cassandra**等
 : 熟悉分布式微服务架构常用技术，如**Kafka、Redis、Restful**等
 : 熟悉JVM的基本知识，能够进行JVM调优，处理线上OOM或者Full GC的问题
 : 掌握**Typescript、Python**语言，可以进行日常开发，了解Lua、Go语言
